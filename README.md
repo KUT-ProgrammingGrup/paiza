@@ -1,4 +1,3 @@
 paiza
 =====
-
-icpcとpaiza分けた方がよいかなと思って作りました
+https://paiza.jp/poh/kirishima/
