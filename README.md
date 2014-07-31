@@ -1,3 +1,3 @@
 paiza
 =====
-https://paiza.jp/poh/kirishima/
+https://paiza.jp/
